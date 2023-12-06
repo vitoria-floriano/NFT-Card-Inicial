@@ -1,8 +1,8 @@
 # Frontend Mentor - NFT Preview Card Component
 
-![Design preview for the NFT preview card component challenge](./Design/desktop-design.jpg)
+![Design preview for the NFT preview card component challenge](./src/Design/desktop-design.jpg)
 
-![Design preview on the Smartphone](./Design/mobile-design.jpg)
+![Design preview on the Smartphone](./src/Design/mobile-design.jpg)
 
 ## Bem Vindo
 
@@ -39,6 +39,6 @@ Abaixo segue o preview do resultado do meu projeto.
 
 Agradeço desde já aos Professores Ricardo e Roberto Dias por este projeto e aula realizada, me ajudou muito a expandir minha visão.
 
-![Desktop Design](./my-design/design-desktop.png)
+![Desktop Design](./src/my-design/design-desktop.png)
 
-![Mobile Desing](./my-design/design-smartphone.png)
+![Mobile Desing](./src/my-design/design-smartphone.png)
